@@ -18,7 +18,7 @@ Script one‑shot pour régénérer les slugs (link_rewrite) des produits, caté
 
 _`Début du projet le 25/11/2025`_ — Version du script : 1.0.0 (25/11/2025)
 
-![Assistant de téléchargement PrestaShop](img/generateur-prestashop-thierrylaval.dev.jpg)
+![Assistant de téléchargement PrestaShop](img/url-hreflang-thierrylaval.dev.jpg)
 
 ### Sommaire
 
